@@ -42,3 +42,5 @@ Context lines to show (default: 1)
 Enable debugging output (default: OFF)
 
     /SET ls_debug ON
+
+![screenshot](http://i.imgur.com/7biR7Gi.png)
